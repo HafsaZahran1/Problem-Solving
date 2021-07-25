@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Addition and Subtraction Easy", "Addition and Subtraction Easy\Addition and Subtraction Easy.vcxproj", "{ACED19E3-3DA7-45B6-8EAF-F90DF97E0CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACED19E3-3DA7-45B6-8EAF-F90DF97E0CAC}.Debug|x64.ActiveCfg = Debug|x64
+		{ACED19E3-3DA7-45B6-8EAF-F90DF97E0CAC}.Debug|x64.Build.0 = Debug|x64
+		{ACED19E3-3DA7-45B6-8EAF-F90DF97E0CAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACED19E3-3DA7-45B6-8EAF-F90DF97E0CAC}.Debug|x86.Build.0 = Debug|Win32
+		{ACED19E3-3DA7-45B6-8EAF-F90DF97E0CAC}.Release|x64.ActiveCfg = Release|x64
+		{ACED19E3-3DA7-45B6-8EAF-F90DF97E0CAC}.Release|x64.Build.0 = Release|x64
+		{ACED19E3-3DA7-45B6-8EAF-F90DF97E0CAC}.Release|x86.ActiveCfg = Release|Win32
+		{ACED19E3-3DA7-45B6-8EAF-F90DF97E0CAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16CE7CDC-1412-4E17-83CD-B8FE3B0AC8CB}
+	EndGlobalSection
+EndGlobal
