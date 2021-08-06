@@ -1,0 +1,3 @@
+﻿  Distinct or Not.cpp
+F:\Coach_Academy\Practice session 1\Distinct or Not\Distinct or Not\Distinct or Not.cpp(6,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Distinct or Not.vcxproj -> F:\Coach_Academy\Practice session 1\Distinct or Not\Debug\Distinct or Not.exe
